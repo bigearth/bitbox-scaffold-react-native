@@ -19,7 +19,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "bitbox-cli": "^0.7.21",
+    "bitbox-cli": "^0.7.23",
     "expo": "^27.0.1",
     "react": "16.3.1",
     "react-native": "~0.55.2"
